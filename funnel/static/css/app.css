@@ -1,11 +1,11 @@
 body {
-  background-image: url('../img/satinweave.png?1357570024');
+  background-image: url('../img/satinweave.png?1390075209');
   background-color: #f1f1f1;
 }
 
 @media all and (-webkit-min-device-pixel-ratio: 1.5) {
   body {
-    background-image: url('../img/satinweave@2x.png?1357570024');
+    background-image: url('../img/satinweave@2x.png?1390075209');
     background-size: 24px 12px;
   }
 }
@@ -21,10 +21,10 @@ footer .footer-inner {
   text-indent: -119988px;
   overflow: hidden;
   text-align: left;
-  background-image: url('../img/logo.png?1388525392');
+  background-image: url('../img/logo.png?1391691197');
   background-repeat: no-repeat;
   background-position: 50% 50%;
-  width: 110px;
+  width: 268px;
   height: 75px;
 }
 
@@ -34,10 +34,10 @@ footer .footer-inner {
   text-indent: -119988px;
   overflow: hidden;
   text-align: left;
-  background-image: url('../img/logo.png?1388525392');
+  background-image: url('../img/logo.png?1391691197');
   background-repeat: no-repeat;
   background-position: 50% 50%;
-  width: 110px;
+  width: 268px;
   height: 75px;
   height: 48px;
   background-position: left center;
@@ -81,7 +81,7 @@ footer .footer-inner {
   text-indent: -119988px;
   overflow: hidden;
   text-align: left;
-  background-image: url('../img/home.png?1377162656');
+  background-image: url('../img/home.png?1390075209');
   background-repeat: no-repeat;
   background-position: 12 22;
   width: 12px;
